@@ -32,7 +32,7 @@ int main(){
 		cout<<-1<<endl;}
 		if((arr[0]+arr[1]+arr[2])%2==0){
 		cout<<draws<<endl;}
-
+ 
 	}
 	return 0;
 }
