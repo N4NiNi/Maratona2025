@@ -47,7 +47,7 @@ int main() {
         }
 
         int result = max_sum(n, a);
-        printf("%d\n", result); // Imprime o resultado
+        printf("%d\n", result);
     }
 
     return 0;

@@ -26,7 +26,7 @@ int main() {
     }
     s[index] = '\0'; // Finaliza a string
 
-    printf("%s\n", s); // Imprime a nova soma
+    printf("%s\n", s);
 
     return 0;
 }

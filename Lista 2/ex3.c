@@ -16,7 +16,7 @@ int main() {
         }
     }
 
-    printf("%d\n", count); // Imprime o número de problemas que serão implementados
+    printf("%d\n", count);
 
     return 0;
 }

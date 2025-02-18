@@ -21,7 +21,7 @@ int main() {
     // Calcula a distância total
     int total_distance = abs(x1 - meeting_point) + abs(x2 - meeting_point) + abs(x3 - meeting_point);
 
-    printf("%d\n", total_distance); // Imprime a distância total
+    printf("%d\n", total_distance);
 
     return 0;
 }

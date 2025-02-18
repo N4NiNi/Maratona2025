@@ -11,7 +11,7 @@ int main() {
 
     int min_horseshoes_to_buy = 4 - unique_colors; // Calcula o número de ferraduras a comprar
 
-    printf("%d\n", min_horseshoes_to_buy); // Imprime o resultado
+    printf("%d\n", min_horseshoes_to_buy);
 
     return 0;
 }

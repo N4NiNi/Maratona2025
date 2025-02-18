@@ -34,7 +34,7 @@ int main() {
     }
     max_len = max(max_len, min(prev_len, current_len) * 2);
 
-    printf("%d\n", max_len); // Imprime o comprimento máximo do subsegmento válido
+    printf("%d\n", max_len);
 
     return 0;
 }

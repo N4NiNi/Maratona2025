@@ -15,7 +15,7 @@ int main() {
             // Abrevia a palavra
             printf("%c%d%c\n", word[0], length - 2, word[length - 1]);
         } else {
-            // Imprime a palavra sem alterações
+
             printf("%s\n", word);
         }
     }

@@ -14,7 +14,7 @@ int main() {
         n++;
     }
 
-    printf("%d\n", n); // Imprime o número mínimo de pás
+    printf("%d\n", n);
 
     return 0;
 }

@@ -44,7 +44,7 @@ int main() {
         cin >> path; // Lê a descrição do caminho
 
         int result = max_coins(n, path);
-        cout << result << endl; // Imprime o resultado
+        cout << result << endl; 
     }
 
     return 0;

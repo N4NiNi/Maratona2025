@@ -18,7 +18,6 @@ int main() {
         }
     }
 
-    // Saída da largura mínima
     printf("%d\n", width);
 
     return 0;

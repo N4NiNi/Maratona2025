@@ -53,7 +53,7 @@ int main() {
 
         for (int i = 0; i < q; i++) {
             int winners = count_winners(k, a, n[i]);
-            printf("%d ", winners); // Imprime o número de vencedores
+            printf("%d ", winners); 
         }
         printf("\n");
     }

@@ -16,7 +16,6 @@ int main() {
         }
     }
 
-    // Saída do número mínimo de pedras a remover
     printf("%d\n", removals);
 
     return 0;
